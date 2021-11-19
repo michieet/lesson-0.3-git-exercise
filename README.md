@@ -1,6 +1,6 @@
 # GitHub Desktop Exercise
 
-This is a sentence.
+This is a sentence. Michelle Testing
 
 Congratulations, you have successfully forked this repository!
 
